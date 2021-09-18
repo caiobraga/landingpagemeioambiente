@@ -1,3 +1,7 @@
+<h1>Landing page meio ambiente</h1> 
+
+## Layout da Aplicação :dash:
+
 <p align="center">
   <img src="public/screenshot.png" alt="Screenshot">
 </p>
@@ -24,6 +28,20 @@ A free Next.js TypeScript landing page template for SaaS products, online servic
 - 🖌 **Renovate** — Dependency update tool
 - 🚫 **lint-staged** — Run linters against staged git files
 - 🗂 **Absolute import** — Import folders and files using the `@` prefix
+
+
+## Descrição do projeto 
+
+<p align="justify">
+  Essa landing page esá sendo construida para um projeto de cursos e concientização do meio ambiente.
+</p>
+
+## Funcionalidades
+
+:heavy_check_mark: Mostrar todas as vantagens do curso
+
+:heavy_check_mark: inicio do sistema de login
+
 
 ## 🚀 Getting started
 
