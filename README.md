@@ -42,6 +42,19 @@ A free Next.js TypeScript landing page template for SaaS products, online servic
 
 :heavy_check_mark: inicio do sistema de login
 
+## Resolvendo Problemas :exclamation:
+
+Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
+
+## Tarefas em aberto
+
+Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
+
+:memo: Finalizar sistema de login
+
+:memo: Finalizar sistema de pagamento
+
+:memo: Inserir aulas e textos persolalizados
 
 ## 🚀 Getting started
 
